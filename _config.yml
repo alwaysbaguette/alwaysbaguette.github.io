@@ -112,9 +112,6 @@ author:
   location         : "Seoul"
   email            : "alwaysbaguette@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:alwaysbaguette@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
