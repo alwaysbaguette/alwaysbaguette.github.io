@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dirt", "neon", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Always 🥖"
+title                    : "🥖🥖🥖🥖🥖🥖🥖"
 title_separator          : "-"
 name                     : "🥖"
 description              : "lalalulalu"
@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:alwaysbaguette@gmail.com
+      # url: mailto:alwaysbaguette@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
