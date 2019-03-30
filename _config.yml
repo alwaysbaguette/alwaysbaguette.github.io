@@ -198,7 +198,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  extensions:["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+  # extensions:["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
   input: GFM
   hard_wrap: false
   auto_ids: true
